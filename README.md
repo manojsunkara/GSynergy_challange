@@ -17,7 +17,6 @@ This Challange processes sales transactions using PySpark and generates ER Diagr
 ✔ Data validation  
 ✔ Incremental processing  
 ✔ Aggregation for reports
-
 ✔ Incremental data
 
 Thank You
